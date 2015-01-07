@@ -61,8 +61,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\url{http://debarghyadas.com} \\
-\href{mailto:dd367@cornell.edu}{dd367@cornell.edu} | 607.379.5733
+\namesection{Chirag}{Gada}{ \urlstyle{same}\url{http://cgada.me} \\
+\href{mailto:cgada@uwaterloo.ca}{cgada@uwaterloo.ca} | 519.804.7827
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -79,57 +79,12 @@
 
 \section{Education} 
 
-\subsection{Cornell University}
-\descript{MEng + BS in Computer Science}
-\location{Expected Dec 2014 | Ithaca, NY}
-Conc. in Software Engineering \\
-College of Engineering \\
-Dean's List (All Semesters) \\
-\location{ Cum. GPA: 3.92 / 4.0 \\
-Major GPA: 3.94 / 4.0}
+\subsection{University of Waterloo}
+\descript{Candidate for Bachelor of Software Engineering}
+\location{Expected April 2017 | Waterloo, ON}
+
 \sectionsep
 
-\subsection{La Martiniere for Boys}
-\location{Grad. May 2011|  Kolkata, India}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Links} 
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Coursework}
-\subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-Evolutionary Computation \\
-Defending Computer Networks \\
-Machine Learning \\
-\sectionsep
-
-\subsection{Undergraduate}
-Information Retrieval \\
-Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst) }}} \\
-Unix Tools and Scripting \\
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -137,14 +92,60 @@ Unix Tools and Scripting \\
 
 \section{Skills}
 \subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
-\location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+\descript{Languages}
+\lang{Python} \profic{(Expert)} 
+\lang{Javascript} \profic{(Intermediate)} 
+\lang{Android} \profic{(Intermediate)}
+\lang{C++}  \profic{(Expert)}
+\lang{HTML \& CSS}  \profic{(Expert)}
+\descript{Frameworks}
+\lang{Django} \profic{(Expert)}
+\lang{Tasty-Pie} \profic{(Intermediate)}
+\lang{Haystack} \profic{(Intermediate)}
+\lang{PIL} \profic{(Beginner)}
+\lang{Boto} \profic{(Beginner)}
+\lang{jQuery} \profic{(Intermediate)}
+\lang{Angular.js} \profic{(Beginner)}
+\lang{Bootstrap} \profic{(Intermediate)}
+\descript{Tools}
+\lang{Git} \profic{(Expert)} 
+\lang{Mercurial} \profic{(Expert)} 
+\lang{Unix} \profic{(Intermediate)} 
 \sectionsep
+
+\subsection{Soft}
+Quick Learner\\
+Good Communicator\\
+Team Player\\
+Strong Leader\\
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+\href{https://github.com/cgada}{https://github.com/\bf cgada} \\
+\href{https://git.cs.uwaterloo.ca/cgada/}{http://git.cs.uwaterloo.ca/\bf cgada} \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+
+Data Structures and Data Management\\
+Software Engineering Principles\\
+Methods of Software Engineering\\
+Digital Computers\\
+Foundations of Sequential Programs\\
+Programming Principles\\
+Data Abstraction and Implementation\\
+Introduction to Combinatorics\\
+
+\sectionsep
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -162,71 +163,60 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 
 \section{Experience}
 
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{Expected June 2014 – Sep 2014 | Mountain View, CA}
+\runsubsection{hou.red}
+\descript{| Software Engineer}
+\location{September 2014 - December 2014 | Kitchener, ON}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\begin{tightemize}
+\item Part of a small startup which makes Android and IOS apps to help you find nearby businesses, stores and restaurants that are actually open now.
+\item Worked extensively on design and implementation of the Android application and general back-end using Java and Django.
+\item Implemented the search engine using Haystack with optimizations for our use which improved search results for abstract searches.
+\item Developed the back-end infrastructure reqiured to maintain and function a medium-level call center including call queue and data re-integration capabalities.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\runsubsection{Computer Science Computing Facility}
+\descript{| Web Developer}
+\location{January 2014 - April 2014 | Waterloo, ON}
 \begin{tightemize}
-\item Worked on the YouTube Captions team in primarily vanilla Javascript and Python to plan, design and develop the full stack implementation of a new framework to add and edit Automatic Speech Recognition captions.\item Created a backbone.js-like framework for the Captions editor.\item All code was reviewed, perfected, and pushed to production.\end{tightemize}
+\item Part of a 3 member Research Support Group responsible for developing and enhancing web-based software tools.
+\item Developed online professor evaluation tool to replace existing scantron based evaluations using the Django framework for Python (\href{http://evaluate.uwaterloo.ca}{\textbf {evaluate.uwaterloo.ca}})
+\item Increased student feedback to evaluations by 10\% during a faculty wide beta release
+\item Developed an Android application in order to scan barcodes and find hardware in internal inventory system
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+\runsubsection{Trapeze Group}
+\descript{| Help Desk Technician}
+\location{May 2013 -August 2013 | Toronto, ON}
 \begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.\item I created the Meme generator and more in PHP and Shell.\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.\end{tightemize}
+\item Part of an integrative team that formed the front-line of all Technical Support for a large organization of over 3000 people.
+\item Performed hands-on fixes at the desktop level, including installing and upgrading software,  hardware, implementing file backups, and configuring systems and applications.
+\item Evaluated documented resolutions and analyzed trends for ways to prevent future problems
+\item Helped automate and streamline a variety of processes considerably lowering turnaround times.
+\end{tightemize}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Head Undergrad Research}
-\location{Jan 2014 – Present | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+\section{Projects}
+\runsubsection{AniTor.net}
+\begin{tightemize}
+\item Anime aggregator for all ongoing active animes.
+\item Features include subscription for updates based on fansubs and qualities.
+\item Implemented all frontend behaviour including backend integration using Javascript, Django and MySQL.
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+\runsubsection{PartnerMine}
+\begin{tightemize}
+\item Anime aggregator for all ongoing active animes.
+\item Features include subscription for updates based on fansubs and qualities.
+\item Implemented all frontend behaviour including backend integration using Javascript, Django and MySQL.
+\end{tightemize}
 \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Awards} 
-\begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
-2010     & National & Comp. Soc. of India's National Programming Contest\\
-\end{tabular}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Publications} 
-\bibliographystyle{abbrv}
-\bibliography{publications}
-\nocite{*}
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}

@@ -22,6 +22,7 @@
 \definecolor{primary}{HTML}{2b2b2b} 
 \definecolor{headings}{HTML}{6A6A6A}
 \definecolor{subheadings}{HTML}{333333}
+\definecolor{profic}{HTML}{97979C}
 
 % Set main fonts
 \usepackage{fontspec}
@@ -48,7 +49,7 @@ Last Updated on \today
 \centering{
 \color{headings}
 \fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{14pt}\selectfont #3}
-\noindent\makebox[\linewidth]{\color{headings}\rule{\paperwidth}{0.4pt}}
+\noindent\makebox[\width]{\color{headings}\rule{\paperwidth}{0.4pt}}
 \vspace{-5pt}
 }
 
@@ -72,6 +73,14 @@ Last Updated on \today
 % Descriptors command
 \newcommand{\descript}[1]{
 \color{subheadings}\raggedright\scshape\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{13pt}\selectfont {#1 \\} \normalfont}
+
+% Proficiency command
+\newcommand{\profic}[1]{
+\color{profic}\raggedright\fontspec[Path = fonts/lato/]{Lato-Lig}\fontsize{11pt}{13pt}\selectfont {#1 \\} \normalfont}
+
+% Language command
+\newcommand{\lang}[1]{
+\color{subheadings}\raggedright\fontspec[Path = fonts/lato/]{Lato-Lig}\fontsize{11pt}{13pt}\selectfont {#1} \normalfont}
 
 % Location command
 \newcommand{\location}[1]{
